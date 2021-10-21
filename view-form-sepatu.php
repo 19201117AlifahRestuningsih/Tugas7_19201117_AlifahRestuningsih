@@ -13,13 +13,13 @@
                     <td> <input type="text" name="nama" id="nama"> </td> 
                 </tr> 
                 <tr> 
-				    <th>NoHp</th> <th>:</th> 
+		    <th>NoHp</th> <th>:</th> 
                     <td> <input type="text" name="nohp" id="nohp"> </td> 
                 </tr> 
                 <tr> <th>Merk</th> <td>:</td> 
                     <td> <select name="merk" id="merk"> 
                             <option value="">Merk</option> 
-							<option value="Nike">Nike</option> 
+			    <option value="Nike">Nike</option> 
                             <option value="Adidas">Adidas</option> 
                             <option value="Kickers">Kickers</option>
                             <option value="Eiger">Eiger</option> 
@@ -39,7 +39,7 @@
                             <option value="38">38</option> 
                             <option value="39">39</option> 
                             <option value="40">40</option>
-							<option value="41">41</option>
+			    <option value="41">41</option>
                             <option value="42">42</option> 
                             <option value="43">43</option> 
                             <option value="44">44</option>
